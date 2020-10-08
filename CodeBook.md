@@ -9,7 +9,7 @@
 5. Creating a second, independent tidy data set with the average of each variable for each activity and each subject. 
 
 ## About R script
-File with R code "run_analysis.R" perform 5 preceding steps
+File with R code "run_analysis.R" performs 5 preceding steps
 
 ## About variables:   
 * `features` contains the correct names for the `x` dataset, which are applied to the column names stored in
