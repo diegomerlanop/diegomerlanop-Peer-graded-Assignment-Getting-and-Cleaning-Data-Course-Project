@@ -12,6 +12,7 @@
 File with R code "run_analysis.R" perform 5 preceding steps
 
 ## About variables:   
+* `features` contains the correct names for the `x` dataset, which are applied to the column names stored in
 * `x_train`, `x_test`, `y_test`, `y_train`, `subject_train` and `subject_test` contain the data from the downloaded files.
 * `x`, `y` and `subject` merge the previous datasets.
-* `features` contains the correct names for the `x` dataset, which are applied to the column names stored in
+
